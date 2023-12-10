@@ -1,5 +1,5 @@
 import React from 'react';
-import { List } from './Statistics.styled';
+import { Ul } from './Statistics.styled';
 
 export const Statistics = ({ good, neutral, bad, total, feedback }) => {
   return (
